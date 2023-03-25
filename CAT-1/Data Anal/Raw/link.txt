@@ -1,0 +1,54 @@
+11.Discuss in detail about the Python Variables and Tuples
+
+https://www.w3schools.com/python/python_variables.asp
+https://www.w3schools.com/python/python_tuples.asp
+
+12. Discuss in detail about Dictionaries, Sets and write suitable
+syntax
+
+https://www.w3schools.com/python/python_dictionaries.asp
+https://www.w3schools.com/python/python_sets.asp
+
+13. Interpret on any TEN built in functions with suitable syntax.
+
+https://www.javatpoint.com/python-built-in-functions
+
+14.Give the detail explanation of loops in python and write suitable
+coding.
+
+https://www.w3schools.com/python/python_for_loops.asp
+
+15. Illustrate the steps involved in Sort NumPy Array in Descending
+Order and write suitable coding
+
+https://thispointer.com/sort-a-numpy-array-in-descending-order-in-python/#using-sort
+
+16. Write the detail explanation of NumPy arrays and create a program of compare two NumPy arrays
+
+https://www.geeksforgeeks.org/basics-of-numpy-arrays/
+https://www.geeksforgeeks.org/how-to-compare-two-numpy-arrays/
+
+17.List out the types of NumPy - Array Manipulation
+
+https://www.tutorialspoint.com/numpy/numpy_array_manipulation.htm
+
+
+18. Explain in detail about Pandas data structures and write
+suitable example
+
+https://www.geeksforgeeks.org/data-structures-in-pandas/
+
+19.Write a code for Selecting a single columns and multiple
+columns using indexing operator
+
+https://datagy.io/pandas-select-columns/
+
+20.Illustrate the different types of control flow statements
+available in Python with flow charts and give any two
+examples.
+
+https://www.educative.io/answers/what-are-control-flow-statements-in-python
+
+21.Creating a sample dataset of marks of various subjects using Aggregating data in Pandas.
+
+https://www.geeksforgeeks.org/grouping-and-aggregating-with-pandas/
